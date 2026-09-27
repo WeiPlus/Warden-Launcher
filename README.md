@@ -4,6 +4,13 @@
 
 ---
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Minecraft](https://img.shields.io/badge/Minecraft-Launcher-brightgreen)](https://www.minecraft.net/)
+[![Made in](https://img.shields.io/badge/Made-China-orange)]()
+[![GUI](https://img.shields.io/badge/GUI-JavaFX17-red)](https://openjfx.cn/index.html#fh5co-documentation)
+[![Java](https://img.shields.io/badge/Java-17.0.19-brown)](https://www.openjdk.org)
+[![](https://img.shields.io/badge/Java-Edition-yellow)](https://www.openjdk.org)
+
 ## What Is This?
 
 **Warden Launcher** is a free Minecraft Java Edition launcher.
